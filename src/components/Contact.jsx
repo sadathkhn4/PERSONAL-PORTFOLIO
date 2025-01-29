@@ -7,7 +7,7 @@ import {
   SiGmail,
 } from "react-icons/si";
 
-import Dhairya from "../assets/DhairyaNew.png";
+import Dhairya from "/DhairyaNew.png";
 
 const Contact = () => {
   return (
